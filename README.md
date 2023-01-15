@@ -1,10 +1,6 @@
 # TodoList-Web-App
 
-The app is available by accessing the following link:
-
-https://siit10-todo-list.herokuapp.com/
-
-# What I learned & used intensively:
+# What I learned:
 
 - backend: Java Servlets, MVC design, Postgresql querries and database Connection, online deployment to Heroku;
 - frontend: HTML, CSS, JSP & JSTL, Bootstrap 4 & a bit of Javascript;
